@@ -1,0 +1,8 @@
+{
+  "name": "haorooms_test",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
